@@ -11,4 +11,4 @@ elif op == '*':
 elif op == '/':
     print("Result:", a / b)
 else:
-    print("Invalid operator")
+    print("Invalid operator ")
